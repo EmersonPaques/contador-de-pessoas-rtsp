@@ -198,6 +198,8 @@ Para melhorar FPS:
 - Camera fica preta no mosaico:
   confirme se o stream abre no VLC e se o canal esta correto
 
-## Licenca
+## Licenciamento e dependencias
 
-Este projeto usa Ultralytics YOLO. Verifique a licenca do projeto base antes de redistribuir.
+- este repositório contem o codigo de integracao da aplicacao
+- bibliotecas e modelos de terceiros seguem licencas proprias
+- consulte [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) antes de redistribuir o projeto ou empacotar dependencias

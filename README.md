@@ -96,6 +96,9 @@ Esse arquivo detalha:
 - nao deixe IPs reais, usuarios ou senhas em arquivos versionados
 - revise sempre `README`, `.env.example` e codigo antes de subir para outro repositorio
 
-## Licenca
+## Licenciamento e dependencias
 
-Este projeto usa Ultralytics YOLO como base. Verifique a licenca aplicavel antes de redistribuir.
+- este repositório contem o codigo de integracao da aplicacao
+- dependencias de terceiros, como `ultralytics`, permanecem sob suas proprias licencas
+- este projeto nao inclui licenca propria para redistribuir automaticamente componentes de terceiros
+- revise [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) antes de reutilizar ou redistribuir
