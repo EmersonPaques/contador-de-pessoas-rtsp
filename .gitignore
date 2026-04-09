@@ -1,0 +1,9 @@
+*__pycache__/
+.env
+.venv*/
+.gradio/
+weights/
+tmp_torch_download/
+ultralytics.egg-info/
+*.pt
+saida.mp4
